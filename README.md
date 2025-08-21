@@ -1,5 +1,5 @@
-# Backend Developer in Japan👋
-### Just 20 years old 
+# AI coder Full stack Developer in Japan👋
+### I started programing at 2022. 
 ### Feel free to contact me anytime!👍
 #
 ![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=watayoshi1984&show_icons=true&theme=vue-dark)
