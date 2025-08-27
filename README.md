@@ -4,21 +4,22 @@
   <a href="https://github.com/watayoshi1984/watayoshi1984">
     <img src="https://komarev.com/ghpvc/?username=watayoshi1984&label=Profile%20views&color=0e75b6&style=flat" alt="watayoshi1984" />
   </a>
-  <a href="https://twitter.com/watayoshi1984">
+  <a href="https://x.com/watayoshi1984">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/watayoshi1984?style=social">
   </a>
 </p>
 
-## 👨‍💻 Software Engineer | WordPress Plugin Developer | Python Enthusiast
+## 👨‍💻 FullStuck Engineer | WordPress Plugin Developer | Python Enthusiast
 
 📍 Saitama, Japan | 📧 w.yoshiki1984@gmail.com
 
-I'm a passionate developer who loves creating efficient and user-friendly solutions. My journey in tech started with Python and has expanded to include various technologies like JavaScript, PHP, and Go. I'm particularly interested in WordPress development and creating plugins that enhance user experience.
+# Profile Summary
+A passionate developer co-creating with AI, dedicated to business efficiency and automation. Proficient in Python, GAS, SQL, JavaScript, CSS, HTML, PHP, Golang, Next.js, React, and more. Leveraging cutting-edge technologies to deliver user-friendly solutions.
 
 ### 🔭 Currently Working On
 - WordPress plugin development
-- Cross-posting solutions for WordPress
-- Learning modern web development frameworks
+- Python system development
+- Vibe Coding
 
 ### 🌱 Currently Learning
 - Next.js and React for modern web applications
@@ -38,7 +39,7 @@ I'm a passionate developer who loves creating efficient and user-friendly soluti
 - Go language basics
 
 ### 📫 How to Reach Me
-- Twitter: [@watayoshi1984](https://twitter.com/watayoshi1984)
+- Twitter: [@watayoshi1984](https://x.com/watayoshi1984)
 - Email: w.yoshiki1984@gmail.com
 
 ---
